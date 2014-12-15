@@ -63,8 +63,8 @@ class StravaActivityWidget extends WP_Widget {
     $wstrava_width = $instance['wstrava_width'];
     $wstrava_height = $instance['wstrava_height'];
     
-    $url_strava_activity = 'http://www.strava.com/athletes/7229054/latest-rides/f5a5f2de7ca7dd5a4a8278eae602c9cbe3599d45';
-    $url_strava_summary  = 'http://www.strava.com/athletes/7229054/activity-summary/f5a5f2de7ca7dd5a4a8278eae602c9cbe3599d45';
+    $url_strava_activity = 'PUBLIC URL OF YOUR STRAVA PROFILE ACTIVITY';
+    $url_strava_summary  = 'PUBLIC URL OF YOUR STRAVA PROFILE SUMMARY';
 
     if ( $wstrava_display_type == 'a' )
       $iframe_url = $url_strava_activity;
