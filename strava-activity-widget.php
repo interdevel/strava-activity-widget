@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Strava Activity
-Plugin URI: http://interdevel.es/wp-plugins/strava-activity
-Description: Strava Activity displays a list of your recent rides/runs, or a summary of your last week of riding/running from your Strava profile
+Plugin Name: Strava Activity Widget
+Plugin URI: http://interdevel.es/wp-plugins/strava-activity-widget
+Description: Strava Activity Widget displays a list of your recent rides/runs, or a summary of your last week of riding/running from your Strava profile
 Author: Luis Molina
 Version: 1.0
 Author URI: http://interdevel.es/
