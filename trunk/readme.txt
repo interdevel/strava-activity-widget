@@ -27,18 +27,13 @@ A simple plugin to display a widget with your activity on Strava. This can be a 
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-An answer to that question.
-= What about foo bar? =
-Answer to foo bar dilemma.
+= Any question? =
+Nope.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. The first screenshot.
+2. This is the second screen shot.
 
 == Changelog ==
 
@@ -48,7 +43,4 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 == Upgrade Notice ==
 
 = 1.0 =
-Upgrade notices describe the reason a user should upgrade. No more than 300 characters.
-= 0.5 =
-This version fixes a security related bug. Upgrade immediately.
-
+Initial release.
